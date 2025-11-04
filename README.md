@@ -20,7 +20,7 @@ WiFi pentesting tool that allows to run WPS PIN attacks ([Pixie Dust](https://fo
 ```shell
 apt update -y && apt upgrade -y
 apt install wget root-repo openssl -y
-wget https://github.com/Rem01Gaming/OneShot-Termux/releases/download/v1.0.1/oneshot.deb
+wget https://github.com/gs-Grey/OneShot-Termux/releases/download/v1.0.1/oneshot.deb
 apt install ./oneshot.deb
 ```
 
